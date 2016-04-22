@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Frequently Visited Websites",
-  "description": "Records visiting frequency of websites you've been visited",
+  "description": "Record visiting frequency of websites you've been visited",
   "version": "0.1",
 
   "browser_action": {
