@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "My frequently visited websites",
-  "description": "This extension records visit frequency of all websites that I've been visited",
+  "description": "Records visiting frequency of websites you've been visited",
   "version": "0.1",
 
   "browser_action": {
