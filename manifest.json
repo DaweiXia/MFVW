@@ -1,13 +1,13 @@
 {
   "manifest_version": 2,
 
-  "name": "My frequently visited websites",
+  "name": "Frequently Visited Websites",
   "description": "Records visiting frequency of websites you've been visited",
   "version": "0.1",
 
   "browser_action": {
     "default_icon": "icon.png",
     "default_popup": "popup.html"
-  },
+  }
 
 }
